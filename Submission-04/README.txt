@@ -8,9 +8,6 @@ Paper title:
 Decoding Emotional Pressure in Social Interactions via NLP models
 
 
-Paper presentation (anyone can view without login):
-
-
 Group Number:
 7
 
