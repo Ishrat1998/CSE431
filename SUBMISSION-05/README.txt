@@ -2,12 +2,10 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/8945361731dpxsnxkszytr#0144bc
 
 Unlisted YouTube video:
-
+https://youtu.be/ULE4fpfSGak?si=VtKyaztCK3YvXnb-
 
 Paper title:
 Detecting Emotional Pressure by decoding social interactions using NLP models.
-
-Paper presentation (anyone can view without login):
 
 
 Group Number:
